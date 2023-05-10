@@ -6,8 +6,6 @@ Premier League Data Analysis.
 User
 Data analysis of premier league this season  read me file
 
-ChatGPT
-Sure, here's a guide to help you perform a data analysis of the Premier League this season:
 
 Data Collection:
 The first step is to collect the data you need. There are many sources for Premier League data, including official websites, APIs, and data providers. Some popular data sources are:
